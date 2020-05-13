@@ -51,7 +51,7 @@
         android:layout_marginRight="8dp"
         android:text="state"
         android:textSize="14sp"
-        app:layout_constraintBottom_toBottomOf="@+id/tv_login"
+        app:layout_constraintBottom_toBottomOf="@+id/tv_id"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="@+id/tv_login" />
 </androidx.constraintlayout.widget.ConstraintLayout>
